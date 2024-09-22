@@ -79,7 +79,7 @@ def No(userdata, node):
 @smach.cb_interface(outcomes=['no', 'ko', 'shi', 'failure'])
 def Ko(userdata, node):
     try:
-        node.get_logger().info('NO : こ')
+        node.get_logger().info('KO : こ')
         video_publisher(node, 'ko')
         return random.choice(['no', 'no', 'ko', 'shi'])
     except:
