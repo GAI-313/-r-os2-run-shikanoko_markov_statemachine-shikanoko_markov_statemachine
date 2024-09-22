@@ -1,5 +1,5 @@
 # shikanoko_markov_statemachine
-<video src="./shikanoko_markov_statemachine.mp4" controls="true" />
+<image src="https://imgur.com/I6bvHIH" />
 
 　「しかのこのこのここしたんたん」のマルコフ連鎖を StateMachine として動作させるパッケージ
 
