@@ -1,4 +1,6 @@
 # shikanoko_markov_statemachine
+<video src="./shikanoko_markov_statemachine.mp4" controls="true" />
+
 　「しかのこのこのここしたんたん」のマルコフ連鎖を StateMachine として動作させるパッケージ
 
 ## インストール
