@@ -13,6 +13,7 @@
   <test_depend>python3-pytest</test_depend>
 
   <depend>smach</depend>
+  <depend>smach_ros</depend>
 
   <export>
     <build_type>ament_python</build_type>
